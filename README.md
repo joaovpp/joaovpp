@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joaovpp, I have a bachelors degree in economics and work for a financial consulting firm, but I'am passionate about tech and love coding.
+- 👋 Hi, I’m @joaovpp, I have a bachelors degree in economics and work for a financial consulting firm, but I love coding.
 - 👀 I’m interested in full stack web development with Python and Javascript.
 - 🌱 I’m currently learning Python for back-end (focus in Django) and Javascript, HTML and CSS for front-end.
 
