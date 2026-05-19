@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @joaovpp, I have a bachelors degree in economics and work for a financial consulting firm, but I love coding.
-- 👀 I’m interested in back-end development with Python, data engineering, data science and machine learning. I also enjoy learning about front-end development with Javascript, HTML and CSS.
-- 🌱 I’m currently learning Python for back-end (focus in Django) and Javascript, HTML and CSS for front-end.
+- 👋 Hi, I’m @joaovpp, I have a bachelors degree in economics and I made a career transition to data.
+- 👀 I’m interested in data engineering, data platform and software development.
+Main programming languages:
+- Python, Java and Golang.
+
+Other technologies:
+- Cloud (GCP & AWS).
+- Spark
+- Docker
 
 <div align="center">
   <a href="https://github.com/joaovpp">
