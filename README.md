@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @joaovpp, I have a bachelors degree in economics and I made a career transition to data.
 - 👀 I’m interested in data engineering, data platform and software development.
+
 Main programming languages:
 - Python, Java and Golang.
 
